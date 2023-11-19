@@ -1,0 +1,11 @@
+train: /kaggle/input/final-dataset/Final Dataset/images/train
+val: /kaggle/input/final-dataset/Final Dataset/images/val
+test: /kaggle/input/final-dataset/Final Dataset/images/train
+
+# number of classes
+nc: 8
+
+# class names
+names: ["chair","table", "door","stairs","wardrobe","bed","commode","currency"]
+
+
