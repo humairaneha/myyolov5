@@ -1,6 +1,6 @@
 train: /kaggle/input/final-dataset/Final Dataset/images/train
 val: /kaggle/input/final-dataset/Final Dataset/images/val
-test: /kaggle/input/final-dataset/Final Dataset/images/train
+test: /kaggle/input/final-dataset/Final Dataset/images/test
 
 # number of classes
 nc: 8
