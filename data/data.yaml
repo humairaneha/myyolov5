@@ -6,6 +6,6 @@ test: /kaggle/input/final-dataset/Final Dataset/images/test
 nc: 8
 
 # class names
-names: ["chair","table", "door","stairs","wardrobe","bed","commode","currency"]
+names: ["chair","table", "door","stairs","wardrobe","person","commode","currency"]
 
 
