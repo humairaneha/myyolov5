@@ -1,11 +1,11 @@
-train: /kaggle/input/final-dataset/Final Dataset/images/train
-val: /kaggle/input/final-dataset/Final Dataset/images/val
-test: /kaggle/input/final-dataset/Final Dataset/images/test
+train: /kaggle/input/yolocurrency/yolocurrencydataset/images/train
+val: /kaggle/input/yolocurrency/yolocurrencydataset/images/val
+test: /kaggle/input/yolocurrency/yolocurrencydataset/images/test
 
 # number of classes
-nc: 8
+nc: 7
 
 # class names
-names: ["chair","table", "door","stairs","wardrobe","person","commode","currency"]
+names: ["10", "20", "50", "100","200","500","1000"]
 
 
